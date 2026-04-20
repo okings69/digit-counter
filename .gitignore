@@ -1,0 +1,13 @@
+# Dataset
+digits/
+digits.zip
+mnist.npz
+__MACOSX/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
